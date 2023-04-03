@@ -1,0 +1,32 @@
+
+#forgot-container {
+    background-color: #FFF;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  body {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position-y: -200px;
+    font-family: Helvetica;
+    color: #323232;
+  }
+
+  input[type="submit"] {
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: fff;
+    background-color: #08558B;
+    font-weight: bold;
+  }
